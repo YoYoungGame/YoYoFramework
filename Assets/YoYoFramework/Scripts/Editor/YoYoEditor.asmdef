@@ -1,0 +1,18 @@
+{
+    "name": "YoYoEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f14d832709a40a74ca3288f6e9ea6a1d"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
