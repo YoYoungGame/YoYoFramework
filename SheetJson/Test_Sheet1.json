@@ -1,0 +1,68 @@
+﻿{
+  "types": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "member1",
+      "type": "string"
+    },
+    {
+      "name": "member2",
+      "type": "byte"
+    },
+    {
+      "name": "member3",
+      "type": "bool"
+    },
+    {
+      "name": "member4",
+      "type": "List<int>"
+    },
+    {
+      "name": "member5",
+      "type": "List<Test1>"
+    },
+    {
+      "name": "member6",
+      "type": "string"
+    },
+    {
+      "name": "member7",
+      "type": "List<int>"
+    },
+    {
+      "name": "member5",
+      "type": "~"
+    },
+    {
+      "name": "member8",
+      "type": "List<Test2>"
+    },
+    {
+      "name": "member9",
+      "type": "byte"
+    },
+    {
+      "name": "member10",
+      "type": "List<Test3>"
+    },
+    {
+      "name": "member11",
+      "type": "bool"
+    },
+    {
+      "name": "member12",
+      "type": "string"
+    },
+    {
+      "name": "member10",
+      "type": "~"
+    },
+    {
+      "name": "member8",
+      "type": "~"
+    }
+  ]
+}

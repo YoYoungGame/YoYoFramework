@@ -1,2 +1,9 @@
-# Auto detect text files and perform LF normalization
+# 自动探测文本文件并统一转换换行符
 * text=auto
+
+# 明确指定 Unity 相关的代码文件和配置在提交时必须转为 LF
+*.cs text
+*.json text
+*.yaml text
+*.meta text
+*.txt text
