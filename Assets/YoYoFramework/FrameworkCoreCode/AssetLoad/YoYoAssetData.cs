@@ -8,7 +8,7 @@ namespace YoYo.Asset
     /// <summary>
     /// 用户访问资源的令牌
     /// </summary>
-    public struct AssetToken
+    public class AssetToken
     {
         internal string location;
 
